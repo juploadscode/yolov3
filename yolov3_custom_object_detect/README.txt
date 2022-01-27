@@ -30,3 +30,4 @@ Step 2 - Open the 'train_yolov3_custom_dataset_colab.ipynb' file and follow the 
 
 Step 3 - After completeing everything in Step 2, open the main.py file and follow the directions there.
 **I did not include my weights file due to the large file size.
+*** Date Summer 2021
